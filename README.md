@@ -43,5 +43,7 @@ optional arguments:
                         Folder for saving converted conll files. Default is 'tsa_conll'
 ```
 
+The result of the conversion as per posting this repository, is found in the `tsa_conll`subfolder.
+
 ## Cite this work
 If you use the NoReC<sub>*fine*</sub> dataset in your work, please cite it as informed on the [NoReC<sub>*fine*</sub>](https://github.com/ltgoslo/norec_fine#cite) github page.
