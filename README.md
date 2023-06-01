@@ -1,9 +1,9 @@
-# Convert NoReC<sub>*fine*</sub> sentiment targets to CoNLL
-
+# Targeted Sentiment Analysis on The Norwegian Review Corpus 
 NoReC<sub>*fine*</sub> is a Norwegain dataset annotated for sentiment expression with targets and holder. See the [github repository](https://github.com/ltgoslo/norec_fine) and [paper](https://www.aclweb.org/anthology/2020.lrec-1.618) for details.  
 NoReC<sub>*fine*</sub> consists of professional reviews, a subset of the [Norwegian Review Corpus NoReC](https://github.com/ltgoslo/norec). 
+## Convert NoReC<sub>*fine*</sub> sentiment targets to CoNLL
 
-Our conversion scipt presented here, converts the NoReC<sub>*fine*</sub> sentiment targets to CoNLL, for training models for Targeted Sentiment Analysis TSA.  
+Our conversion scipt presented here, converts the NoReC<sub>*fine*</sub> sentiment targets to CoNLL, for training models for Targeted Sentiment Analysis (TSA).  
 
 When doing Targeted Sentiment Analysis, we are interested in what is spoken positively or negatively about in each sentence, and what is the polarity of the sentiment. A sentiment target may have more than one opinion towards it. We count 1732 sentiment targets with more than one opinion towards it, and 402 of these have both positive and negative opinions. An example from the dataset: 
 
