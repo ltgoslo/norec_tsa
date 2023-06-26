@@ -79,7 +79,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--jfolder", "-jf",
         type=str,
-        default="norec_fine",
+        default="/home/egil/gits_wsl/norec_fine",
         help="Folder with train, dev and test norec fine json files. Default is 'norec_fine'"
     )
     parser.add_argument(
@@ -88,10 +88,18 @@ if __name__ == "__main__":
         default="tsa_conll",
         help="Folder for saving converted conll files. Default is 'tsa_conll'"
     )
+    parser.add_argument(
+        "--intensities", "-i",
+        dest="intensities",
+        default=False,
+        action="store_true",
+        help="Add this flag to add intensity to the polarity label"
+    )
     args= parser.parse_args()
 
     json_folder = args.jfolder
     conll_folder = args.cfolder
+    return_intensity = args.intensities == True 
     if not os.path.exists(conll_folder):
         os.mkdir(conll_folder)
     splits = ["train", "dev", "test"]
@@ -129,9 +137,9 @@ if __name__ == "__main__":
             for first, second in itertools.product(unique_spans, unique_spans):
                 f, s = i_set(first) , i_set(second)
                 if f < s: # True subset
-                    print(sent) # None
+                    print("Subset target!",sent) # None
                 if f != s and len(f.intersection(s) )> 0:
-                    print(sent) # None
+                    print("Targets are overlapping!",sent) # None
 
             resolved = {} # key: str for span, value: int for polarity
 
@@ -145,6 +153,8 @@ if __name__ == "__main__":
                 elif sent_int < 0: sent_str = "Negative"
                 else: sent_str = span_targets[-1]["polarity"] # Use last polarity if equally pos and neg
                 # Here is where you would change the code if you want to resolve mixed opinions differently. Or if you want to keep intensity in the conll label
+                if return_intensity:
+                    sent_str = sent_str+ "-"+str(abs(sent_int))
                 resolved[span_str] = sent_str
             dataset_json[idx]["tsa_spans"] = resolved
 
