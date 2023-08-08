@@ -79,7 +79,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--jfolder", "-jf",
         type=str,
-        default="/home/egil/gits_wsl/norec_fine",
+        default="norec_fine",
         help="Folder with train, dev and test norec fine json files. Default is 'norec_fine'"
     )
     parser.add_argument(
