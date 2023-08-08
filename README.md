@@ -31,7 +31,7 @@ The sentence id line starts with a '#' and has no tab in it. The first 6 digits 
 ## To run the conversion script:
 1. Clone the repo norec_fine
 `git clone https://github.com/ltgoslo/norec_fine.git`
-2. Run `tsa_conll.py` with optional arguments for the path to the NoReC<sub>*fine*</sub> folder containing the json files, and for the path for the resulting CoNLL tab-separated files.  
+2. Run `python tsa_conll.py` with optional arguments for the path to the NoReC<sub>*fine*</sub> folder containing the json files, and for the path for the resulting CoNLL tab-separated files.  
 ```
 usage: tsa_conll.py [-h] [--jfolder JFOLDER] [--cfolder CFOLDER] [--intensities]
 
@@ -46,6 +46,12 @@ optional arguments:
 
 The result of the conversion as per posting this repository, is found in the `tsa_conll`subfolder.
 
+## Conversion from conll to HF Datasets
+`conll_to_dataset.ipynb` has a script for converting the conll-formatted TSA datasets into the HF Datasets Arrow-format. The contents of the resulting folders, can be loaded through `datasets.load_from_disk`.
+```
+from datasets import load_from_disk, DatasetDict, Dataset
+load_from_disk(<arrow_folder>)
+```
 ### Sentiment intensity integers
 The intensities annotated in NoReC<sub>*fine*</sub> are converted as follows: `{'Slight':1, 'Standard':2, 'Strong':3}`. When multiple sentiment expressions have the same target, the values are added / subtracted. A '0' intensity means positive and negative sentiments have the same total intensity. Last polarity in the sentence is then reflected in the sentiment polarity assigned. This corresponds with an intuitive understanding of communicating sentiment in Norwegian, that the last sentiment expressed tends to be conclusive. Our conversion script does not output any "mixed" polarity classification, but this can be modified in the script.
 
