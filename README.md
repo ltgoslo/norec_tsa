@@ -53,7 +53,7 @@ from datasets import load_from_disk, DatasetDict, Dataset
 load_from_disk(<arrow_folder>)
 ```
 ### Sentiment intensity integers
-The intensities annotated in NoReC<sub>*fine*</sub> are converted as follows: `{'Slight':1, 'Standard':2, 'Strong':3}`. When multiple sentiment expressions have the same target, the values are added / subtracted. A '0' intensity means positive and negative sentiments have the same total intensity. Last polarity in the sentence is then reflected in the sentiment polarity assigned. This corresponds with an intuitive understanding of communicating sentiment in Norwegian, that the last sentiment expressed tends to be conclusive. Our conversion script does not output any "mixed" polarity classification, but this can be modified in the script.
+The intensities annotated in NoReC<sub>*fine*</sub> are converted as follows: `{'Slight':1, 'Standard':2, 'Strong':3}`. When multiple sentiment expressions have the same target, the values are added / subtracted. When a target receives equaly strong pos and neg sentiments, the last polarity in the sentence is  assigned. This corresponds with an intuitive understanding of communicating sentiment in Norwegian, that the last sentiment expressed tends to be conclusive. The intensity is in these cases set to 1. Our conversion script does not output any "mixed" polarity classification, but this can be modified in the script.
 
 ## Cite this work
 If you use the NoReC<sub>*tsa*</sub> dataset in your work, please cite as informed on the [NoReC<sub>*fine*</sub>](https://github.com/ltgoslo/norec_fine#cite) github page.

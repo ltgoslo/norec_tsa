@@ -151,8 +151,9 @@ if __name__ == "__main__":
                 sent_int = min(3, max(span_polarity, -3)) # clip to -3...3 range for each resolved target 
                 if sent_int > 0: sent_str = "Positive"
                 elif sent_int < 0: sent_str = "Negative"
-                else: sent_str = span_targets[-1]["polarity"] # Use last polarity if equally pos and neg
-                # Here is where you would change the code if you want to resolve mixed opinions differently. Or if you want to keep intensity in the conll label
+                else: # Here is where you would change the code if you want to resolve mixed opinions differently. Or if you want to keep intensity in the conll label
+                    sent_str = span_targets[-1]["polarity"] # Use last polarity if equally pos and neg
+                    sent_int = 1 # To avoid having Positive-0 as a sentiment with intensity, we make it slight  
                 if return_intensity:
                     sent_str = sent_str+ "-"+str(abs(sent_int))
                 resolved[span_str] = sent_str

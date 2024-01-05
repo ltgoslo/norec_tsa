@@ -646,7 +646,7 @@ lydstyrke	O
 .	O
 
 #sent_id=201911-24-01
-Lydbildet	B-targ-Negative-0
+Lydbildet	B-targ-Negative-1
 er	O
 ok	O
 ,	O
@@ -698,7 +698,7 @@ spill	O
 og	O
 bakgrunnsmusikk	O
 er	O
-lyden	B-targ-Negative-0
+lyden	B-targ-Negative-1
 ok	O
 ,	O
 men	O
@@ -758,7 +758,7 @@ gjennommsnittet	O
 .	O
 
 #sent_id=201911-28-01
-Lyden	B-targ-Positive-0
+Lyden	B-targ-Positive-1
 er	O
 ikke	O
 like	O
@@ -1488,8 +1488,8 @@ den	O
 nedadgående	O
 utviklingen	O
 på	O
-AC	B-targ-Positive-0
-Newmans	I-targ-Positive-0
+AC	B-targ-Positive-1
+Newmans	I-targ-Positive-1
 solodiskografi	B-targ-Negative-2
 –	O
 den	O
@@ -1767,7 +1767,7 @@ og	O
 med	O
 ganske	O
 flate	O
-replikker	B-targ-Negative-0
+replikker	B-targ-Negative-1
 med	O
 scenevant	O
 showsug	O
@@ -1895,7 +1895,7 @@ yay	O
 .	O
 
 #sent_id=701363-07-02
-Han	B-targ-Negative-0
+Han	B-targ-Negative-1
 redda	O
 den	O
 perfekte	O
@@ -2587,7 +2587,7 @@ Kjekke	O
 men	O
 heller	O
 kjedelige	O
-Mikkel	B-targ-Negative-0
+Mikkel	B-targ-Negative-1
 (	O
 Sindre	O
 Horseby	O
@@ -3824,7 +3824,7 @@ er	O
 synd	O
 ,	O
 fordi	O
-låta	B-targ-Positive-0
+låta	B-targ-Positive-1
 er	O
 fortsatt	O
 den	O
@@ -8147,11 +8147,11 @@ Søt	O
 musikk	O
 
 #sent_id=303167-02-01
-«	B-targ-Negative-0
-Møte	I-targ-Negative-0
-på	I-targ-Negative-0
-valmueåsen	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Møte	I-targ-Negative-1
+på	I-targ-Negative-1
+valmueåsen	I-targ-Negative-1
+»	I-targ-Negative-1
 er	O
 vakker	O
 å	O
@@ -8584,11 +8584,11 @@ Jeg	O
 vil	O
 ikke	O
 anbefale	O
-«	B-targ-Positive-0
-Møte	I-targ-Positive-0
-på	I-targ-Positive-0
-valmueåsen	I-targ-Positive-0
-»	I-targ-Positive-0
+«	B-targ-Positive-1
+Møte	I-targ-Positive-1
+på	I-targ-Positive-1
+valmueåsen	I-targ-Positive-1
+»	I-targ-Positive-1
 som	O
 kinodate	O
 for	O
@@ -8721,7 +8721,7 @@ opplevelse	O
 .	O
 
 #sent_id=109594-05-02
-Kampsystemet	B-targ-Positive-0
+Kampsystemet	B-targ-Positive-1
 er	O
 forutsigbart	O
 ,	O
@@ -9834,7 +9834,7 @@ Valsemølle	O
 Et	O
 ufortjent	O
 glemt	O
-band	B-targ-Positive-0
+band	B-targ-Positive-1
 
 #sent_id=400565-02-01
 De	O
@@ -15003,7 +15003,7 @@ posisjoner	O
 Hennes	O
 lite	O
 flatterende	O
-beskrivelser	B-targ-Positive-0
+beskrivelser	B-targ-Positive-1
 av	O
 menn	B-targ-Negative-2
 som	I-targ-Negative-2
@@ -18336,7 +18336,7 @@ stedet	O
 får	O
 vi	O
 et	O
-program	B-targ-Negative-0
+program	B-targ-Negative-1
 som	O
 er	O
 pent	O
@@ -18529,7 +18529,7 @@ avsløres	O
 .	O
 
 #sent_id=600374-04-01
-Filmen	B-targ-Negative-0
+Filmen	B-targ-Negative-1
 er	O
 underholdende	O
 ,	O
@@ -18778,7 +18778,7 @@ at	O
 å	O
 se	O
 denne	O
-filmen	B-targ-Negative-0
+filmen	B-targ-Negative-1
 er	O
 en	O
 passende	O
@@ -20200,7 +20200,7 @@ ja	O
 !	O
 
 #sent_id=003619-05-01
-Den	B-targ-Positive-0
+Den	B-targ-Positive-1
 vil	O
 riktignok	O
 ikke	O
@@ -22186,7 +22186,7 @@ hele	O
 .	O
 
 #sent_id=201734-12-02
-Betraktningsvinkelen	B-targ-Positive-0
+Betraktningsvinkelen	B-targ-Positive-1
 er	O
 begrenset	O
 ,	O
@@ -22268,7 +22268,7 @@ bordtastatur	O
 .	O
 
 #sent_id=201734-13-02
-Tastene	B-targ-Positive-0
+Tastene	B-targ-Positive-1
 er	O
 mindre	O
 dype	O
@@ -22286,7 +22286,7 @@ Pekeplaten	B-targ-Positive-2
 er	O
 god	O
 ,	O
-knappene	B-targ-Positive-0
+knappene	B-targ-Positive-1
 er	O
 en	O
 vippeknapp	O
@@ -24443,7 +24443,7 @@ ekstrautstyr	O
 De	O
 virkelig	O
 gromme	O
-sportsstolene	B-targ-Negative-0
+sportsstolene	B-targ-Negative-1
 vil	O
 for	O
 eksempel	O
@@ -25403,7 +25403,7 @@ sertifisert	O
 psyk	O
 som	O
 tilfellet	O
-Hausser	B-targ-Negative-0
+Hausser	B-targ-Negative-1
 var	O
 knapt	O
 Stasi-funksjonærene	O
@@ -26689,7 +26689,7 @@ på	O
 Øredøende	O
 
 #sent_id=103071-02-01
-De	B-targ-Negative-0
+De	B-targ-Negative-1
 har	O
 lyden	O
 ,	O
@@ -26913,7 +26913,7 @@ et	O
 tørt	O
 og	O
 sobert	O
-drama	B-targ-Positive-0
+drama	B-targ-Positive-1
 ,	O
 med	O
 flinke	O
@@ -27036,7 +27036,7 @@ mord	O
 Nøkkelproblem	O
 
 #sent_id=003339-08-01
-Historien	B-targ-Negative-0
+Historien	B-targ-Negative-1
 tar	O
 seg	O
 god	O
@@ -27142,11 +27142,11 @@ match	O
 
 #sent_id=003339-11-01
 Både	O
-Ewan	B-targ-Negative-0
-McGregor	I-targ-Negative-0
-og	I-targ-Negative-0
-Colin	I-targ-Negative-0
-Farrell	I-targ-Negative-0
+Ewan	B-targ-Negative-1
+McGregor	I-targ-Negative-1
+og	I-targ-Negative-1
+Colin	I-targ-Negative-1
+Farrell	I-targ-Negative-1
 er	O
 flinke	O
 skuespillere	O
@@ -29145,7 +29145,7 @@ Oscar-publikummet	O
 Gore	O
 Verbinskis	O
 tredje	O
-film	B-targ-Negative-0
+film	B-targ-Negative-1
 er	O
 så	O
 lang	O
@@ -29815,9 +29815,9 @@ enn	O
 manisk	O
 
 #sent_id=102097-02-01
-Manic	B-targ-Negative-0
-Street	I-targ-Negative-0
-Preachers	I-targ-Negative-0
+Manic	B-targ-Negative-1
+Street	I-targ-Negative-1
+Preachers	I-targ-Negative-1
 er	O
 et	O
 elskelig	O
@@ -30234,9 +30234,9 @@ Trembling	O
 #sent_id=110965-01-02
 Bedre	O
 enn	O
-«	B-targ-Negative-0
-Venn	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Venn	I-targ-Negative-1
+»	I-targ-Negative-1
 
 #sent_id=110965-02-01
 Godt	O
@@ -32278,7 +32278,7 @@ filmer	O
 .	O
 
 #sent_id=003480-12-03
-Hun	B-targ-Negative-0
+Hun	B-targ-Negative-1
 ser	O
 bra	O
 ut	O
@@ -32438,10 +32438,10 @@ svakheter	O
 og	O
 derfor	O
 kan	O
-”	B-targ-Negative-0
-The	I-targ-Negative-0
-Spirit	I-targ-Negative-0
-”	I-targ-Negative-0
+”	B-targ-Negative-1
+The	I-targ-Negative-1
+Spirit	I-targ-Negative-1
+”	I-targ-Negative-1
 anbefales	O
 ,	O
 men	O
@@ -34258,11 +34258,11 @@ Pass	I-targ-Negative-1
 Out	I-targ-Negative-1
 "	I-targ-Negative-1
 og	O
-"	B-targ-Positive-0
-Miami	I-targ-Positive-0
-2	I-targ-Positive-0
-Ibiza	I-targ-Positive-0
-"	I-targ-Positive-0
+"	B-targ-Positive-1
+Miami	I-targ-Positive-1
+2	I-targ-Positive-1
+Ibiza	I-targ-Positive-1
+"	I-targ-Positive-1
 faller	O
 totalt	O
 gjennom	O
@@ -34350,14 +34350,14 @@ coverband-vibb	O
 og	O
 den	O
 lekre	O
-kominasjonen	B-targ-Positive-0
-av	I-targ-Positive-0
-UK	I-targ-Positive-0
-garage	I-targ-Positive-0
-,	I-targ-Positive-0
-grime	I-targ-Positive-0
-og	I-targ-Positive-0
-klubbmusikk	I-targ-Positive-0
+kominasjonen	B-targ-Positive-1
+av	I-targ-Positive-1
+UK	I-targ-Positive-1
+garage	I-targ-Positive-1
+,	I-targ-Positive-1
+grime	I-targ-Positive-1
+og	I-targ-Positive-1
+klubbmusikk	I-targ-Positive-1
 som	O
 er	O
 å	O
@@ -36842,8 +36842,8 @@ plass	I-targ-Negative-2
 .	O
 
 #sent_id=102138-11-01
-Harry	B-targ-Positive-0
-Hole	I-targ-Positive-0
+Harry	B-targ-Positive-1
+Hole	I-targ-Positive-1
 er	O
 likevel	O
 en	O
@@ -38964,7 +38964,7 @@ kammeret	O
 .	O
 
 #sent_id=201849-23-06
-Neatoen	B-targ-Negative-0
+Neatoen	B-targ-Negative-1
 sier	O
 riktignok	O
 i	O
@@ -40286,7 +40286,7 @@ fra	O
 
 #sent_id=105573-06-02
 Og	O
-Cyrus	B-targ-Negative-0
+Cyrus	B-targ-Negative-1
 kan	O
 tilgis	O
 for	O
@@ -43205,9 +43205,9 @@ likheten	O
 For	O
 selv	O
 om	O
-«	B-targ-Negative-0
-Løgnen	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Løgnen	I-targ-Negative-1
+»	I-targ-Negative-1
 har	O
 spenningen	O
 i	O
@@ -47609,7 +47609,7 @@ liv	O
 .	O
 
 #sent_id=111260-04-01
-Kontrollene	B-targ-Negative-0
+Kontrollene	B-targ-Negative-1
 fungerer	O
 bra	O
 for	O
@@ -48252,13 +48252,13 @@ lenge	O
 sidan	O
 ,	O
 og	O
-The	B-targ-Negative-0
-Kids	I-targ-Negative-0
-Are	I-targ-Negative-0
-Up	I-targ-Negative-0
-To	I-targ-Negative-0
-No	I-targ-Negative-0
-Good	I-targ-Negative-0
+The	B-targ-Negative-1
+Kids	I-targ-Negative-1
+Are	I-targ-Negative-1
+Up	I-targ-Negative-1
+To	I-targ-Negative-1
+No	I-targ-Negative-1
+Good	I-targ-Negative-1
 framstår	O
 fyrst	O
 og	O
@@ -48780,7 +48780,7 @@ Norbakken	O
 og	O
 laget	O
 en	O
-plate	B-targ-Negative-0
+plate	B-targ-Negative-1
 som	O
 i	O
 løpet	O
@@ -50383,7 +50383,7 @@ ansatte	O
 .	O
 
 #sent_id=107878-06-01
-Det	B-targ-Negative-0
+Det	B-targ-Negative-1
 er	O
 imponerende	O
 tall	O
@@ -50538,7 +50538,7 @@ for	O
 eksempel	O
 skuffende	O
 at	O
-børspoengene	B-targ-Positive-0
+børspoengene	B-targ-Positive-1
 spillerne	O
 får	O
 etter	O
@@ -53745,9 +53745,9 @@ er	O
 å	O
 spore	O
 i	O
-høykontrastbilder	B-targ-Positive-0
-på	I-targ-Positive-0
-vidvinkel	I-targ-Positive-0
+høykontrastbilder	B-targ-Positive-1
+på	I-targ-Positive-1
+vidvinkel	I-targ-Positive-1
 ,	O
 men	O
 ikke	O
@@ -55099,11 +55099,11 @@ si	O
 om	O
 spillbarheten	B-targ-Positive-2
 i	O
-Knights	B-targ-Negative-0
-of	I-targ-Negative-0
-the	I-targ-Negative-0
-Old	I-targ-Negative-0
-Republic	I-targ-Negative-0
+Knights	B-targ-Negative-1
+of	I-targ-Negative-1
+the	I-targ-Negative-1
+Old	I-targ-Negative-1
+Republic	I-targ-Negative-1
 ,	O
 men	O
 det	O
@@ -56567,7 +56567,7 @@ tester	O
 #sent_id=200140-21-02
 Selv	O
 om	O
-klokkehastigheten	B-targ-Positive-0
+klokkehastigheten	B-targ-Positive-1
 er	O
 så	O
 lav	O
@@ -57402,11 +57402,11 @@ Nordlands	O
 russefløyte	O
 
 #sent_id=304705-02-01
-«	B-targ-Negative-0
-Heart	I-targ-Negative-0
-of	I-targ-Negative-0
-Lightness	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Heart	I-targ-Negative-1
+of	I-targ-Negative-1
+Lightness	I-targ-Negative-1
+»	I-targ-Negative-1
 har	O
 gode	O
 råvarer	O
@@ -57505,7 +57505,7 @@ film	O
 om	O
 den	O
 kaotiske	O
-innspillingen	B-targ-Negative-0
+innspillingen	B-targ-Negative-1
 ,	O
 der	O
 Vardøen	B-targ-Negative-3
@@ -58551,12 +58551,12 @@ av	O
 .	O
 
 #sent_id=111053-04-07
-Platen	B-targ-Negative-0
+Platen	B-targ-Negative-1
 er	O
 som	O
-by	B-targ-Negative-0
-:	I-targ-Negative-0
-Larm-konserten	I-targ-Negative-0
+by	B-targ-Negative-1
+:	I-targ-Negative-1
+Larm-konserten	I-targ-Negative-1
 deres	O
 sist	O
 helg	O
@@ -58598,7 +58598,7 @@ motsetning	O
 :	O
 
 #sent_id=001478-02-02
-Hun	B-targ-Negative-0
+Hun	B-targ-Negative-1
 har	O
 låtene	O
 ,	O
@@ -59006,7 +59006,7 @@ hjerterota	O
 .	O
 
 #sent_id=001478-07-03
-Fremføringen	B-targ-Positive-0
+Fremføringen	B-targ-Positive-1
 på	O
 kveldens	O
 konsert	O
@@ -59541,13 +59541,13 @@ sterkt	O
 medvirkende	O
 til	O
 at	O
-«	B-targ-Negative-0
-The	I-targ-Negative-0
-Ghost	I-targ-Negative-0
-of	I-targ-Negative-0
-Tom	I-targ-Negative-0
-Joad	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+The	I-targ-Negative-1
+Ghost	I-targ-Negative-1
+of	I-targ-Negative-1
+Tom	I-targ-Negative-1
+Joad	I-targ-Negative-1
+»	I-targ-Negative-1
 er	O
 blitt	O
 en	O
@@ -59986,7 +59986,7 @@ II	O
 S8530	O
 
 #sent_id=202601-02-01
-Bada-mobilen	B-targ-Negative-0
+Bada-mobilen	B-targ-Negative-1
 er	O
 "	O
 oppgradert	O
@@ -60180,8 +60180,8 @@ LCD-skjerm	I-targ-Positive-2
 som	O
 gjør	O
 at	O
-Wave	B-targ-Positive-0
-II	I-targ-Positive-0
+Wave	B-targ-Positive-1
+II	I-targ-Positive-1
 ikke	O
 stikker	O
 seg	O
@@ -61566,7 +61566,7 @@ Dette	O
 gjør	O
 selvsagt	O
 at	O
-den	B-targ-Negative-0
+den	B-targ-Negative-1
 ikke	O
 trenger	O
 å	O
@@ -62328,7 +62328,7 @@ av	O
 fordelene	O
 med	O
 at	O
-telefonen	B-targ-Positive-0
+telefonen	B-targ-Positive-1
 ikke	O
 multitasker	O
 skikkelig	O
@@ -62440,7 +62440,7 @@ pengene	O
 #sent_id=202601-49-01
 Dog	O
 har	O
-operativsystemet	B-targ-Positive-0
+operativsystemet	B-targ-Positive-1
 sine	O
 svakheter	O
 ,	O
@@ -62676,7 +62676,7 @@ Grundig	O
 men	O
 litt	O
 retningsløs	O
-dokumentar	B-targ-Negative-0
+dokumentar	B-targ-Negative-1
 om	O
 fenomenet	O
 Hugo	O
@@ -63910,11 +63910,11 @@ fly	O
 .	O
 
 #sent_id=202792-13-03
-Fysikken	B-targ-Positive-0
-på	I-targ-Positive-0
-de	I-targ-Positive-0
-bakkebaserte	I-targ-Positive-0
-maskinene	I-targ-Positive-0
+Fysikken	B-targ-Positive-1
+på	I-targ-Positive-1
+de	I-targ-Positive-1
+bakkebaserte	I-targ-Positive-1
+maskinene	I-targ-Positive-1
 er	O
 noe	O
 ujevn	O
@@ -68974,13 +68974,13 @@ gode	O
 låter	O
 ,	O
 som	O
-"	B-targ-Negative-0
-Manhattan	I-targ-Negative-0
-"	I-targ-Negative-0
+"	B-targ-Negative-1
+Manhattan	I-targ-Negative-1
+"	I-targ-Negative-1
 ,	O
-"	B-targ-Negative-0
-369	I-targ-Negative-0
-"	I-targ-Negative-0
+"	B-targ-Negative-1
+369	I-targ-Negative-1
+"	I-targ-Negative-1
 og	O
 coveren	O
 av	O
@@ -68988,9 +68988,9 @@ The	O
 Birthday's	O
 Party	O
 dystre	O
-"	B-targ-Negative-0
-Shivers	I-targ-Negative-0
-"	I-targ-Negative-0
+"	B-targ-Negative-1
+Shivers	I-targ-Negative-1
+"	I-targ-Negative-1
 forsvinner	O
 alle	O
 i	O
@@ -70041,17 +70041,17 @@ trauste	O
 ,	O
 men	O
 anstendige	O
-All	B-targ-Negative-0
-That	I-targ-Negative-0
-You	I-targ-Negative-0
-Can	I-targ-Negative-0
-’	I-targ-Negative-0
-t	I-targ-Negative-0
-Leave	I-targ-Negative-0
-Behind	I-targ-Negative-0
-(	I-targ-Negative-0
-2000	I-targ-Negative-0
-)	I-targ-Negative-0
+All	B-targ-Negative-1
+That	I-targ-Negative-1
+You	I-targ-Negative-1
+Can	I-targ-Negative-1
+’	I-targ-Negative-1
+t	I-targ-Negative-1
+Leave	I-targ-Negative-1
+Behind	I-targ-Negative-1
+(	I-targ-Negative-1
+2000	I-targ-Negative-1
+)	I-targ-Negative-1
 ,	O
 da	O
 de	O
@@ -70171,17 +70171,17 @@ mangler	O
 
 #sent_id=002747-07-01
 På	O
-"	B-targ-Positive-0
-California	I-targ-Positive-0
-"	I-targ-Positive-0
-(	I-targ-Positive-0
-There	I-targ-Positive-0
-Is	I-targ-Positive-0
-No	I-targ-Positive-0
-End	I-targ-Positive-0
-To	I-targ-Positive-0
-Love	I-targ-Positive-0
-)	I-targ-Positive-0
+"	B-targ-Positive-1
+California	I-targ-Positive-1
+"	I-targ-Positive-1
+(	I-targ-Positive-1
+There	I-targ-Positive-1
+Is	I-targ-Positive-1
+No	I-targ-Positive-1
+End	I-targ-Positive-1
+To	I-targ-Positive-1
+Love	I-targ-Positive-1
+)	I-targ-Positive-1
 "	O
 parafraseres	O
 finske	O
@@ -71521,7 +71521,7 @@ fortelling	O
 .	O
 
 #sent_id=000465-21-01
-Singularity	B-targ-Negative-0
+Singularity	B-targ-Negative-1
 er	O
 et	O
 godt	O
@@ -72012,7 +72012,7 @@ vilt	I-targ-Negative-2
 .	O
 
 #sent_id=702913-11-01
-Personkarakteristikkene	B-targ-Negative-0
+Personkarakteristikkene	B-targ-Negative-1
 er	O
 mye	O
 bedre	O
@@ -74080,12 +74080,12 @@ alt	O
 Youngs	O
 ganske	O
 konsekvente	O
-antikonvensjonelle	B-targ-Negative-0
-«	I-targ-Negative-0
-fuck	I-targ-Negative-0
-you	I-targ-Negative-0
-»	I-targ-Negative-0
--holdning	I-targ-Negative-0
+antikonvensjonelle	B-targ-Negative-1
+«	I-targ-Negative-1
+fuck	I-targ-Negative-1
+you	I-targ-Negative-1
+»	I-targ-Negative-1
+-holdning	I-targ-Negative-1
 knyttet	O
 til	O
 hva	O
@@ -74226,9 +74226,9 @@ vurdering	O
 er	O
 derfor	O
 at	O
-«	B-targ-Positive-0
-Storytone	I-targ-Positive-0
-»	I-targ-Positive-0
+«	B-targ-Positive-1
+Storytone	I-targ-Positive-1
+»	I-targ-Positive-1
 ,	O
 sin	O
 litt	O
@@ -79173,9 +79173,9 @@ mor-barn	O
 
 #sent_id=105542-10-01
 I	O
-Tracy	B-targ-Positive-0
-Letts	I-targ-Positive-0
-fortelling	I-targ-Positive-0
+Tracy	B-targ-Positive-1
+Letts	I-targ-Positive-1
+fortelling	I-targ-Positive-1
 skildres	O
 det	O
 intenst	O
@@ -80276,7 +80276,7 @@ ujevne	O
 ,	O
 men	O
 overveldende	O
-1970-tallskatalog	B-targ-Negative-0
+1970-tallskatalog	B-targ-Negative-1
 er	O
 over	O
 oss	O
@@ -84939,7 +84939,7 @@ fenger	O
 Da	O
 tror	O
 jeg	O
-Buzz	B-targ-Positive-0
+Buzz	B-targ-Positive-1
 kan	O
 fenge	O
 i	O
@@ -85548,7 +85548,7 @@ burde	O
 være	O
 et	O
 av	O
-Elvebreddens	B-targ-Negative-0
+Elvebreddens	B-targ-Negative-1
 største	O
 pre	O
 ,	O
@@ -91853,7 +91853,7 @@ tenker	O
 over	O
 at	O
 denne	O
-skjermen	B-targ-Negative-0
+skjermen	B-targ-Negative-1
 er	O
 skarpere	O
 enn	O
@@ -93194,7 +93194,7 @@ samme	O
 luggingen	O
 hva	O
 gjelder	O
-ytelse	B-targ-Negative-0
+ytelse	B-targ-Negative-1
 som	O
 beskrevet	O
 i	O
@@ -94257,8 +94257,8 @@ Metroid	O
 :	O
 
 #sent_id=105571-02-03
-Other	B-targ-Negative-0
-M	I-targ-Negative-0
+Other	B-targ-Negative-1
+M	I-targ-Negative-1
 »	O
 er	O
 et	O
@@ -99642,7 +99642,7 @@ men	O
 Det	O
 faktum	O
 at	O
-merket	B-targ-Positive-0
+merket	B-targ-Positive-1
 fortsatt	O
 ikke	O
 har	O
@@ -99719,8 +99719,8 @@ solgte	O
 biler	O
 ,	O
 mens	O
-Mazda	B-targ-Negative-0
-3	I-targ-Negative-0
+Mazda	B-targ-Negative-1
+3	I-targ-Negative-1
 -	O
 som	O
 ledet	O
@@ -100240,8 +100240,8 @@ rolig	O
 .	O
 
 #sent_id=202276-18-05
-Totalt	B-targ-Negative-0
-støynivå	I-targ-Negative-0
+Totalt	B-targ-Negative-1
+støynivå	I-targ-Negative-1
 inklusive	O
 rullestøy	O
 og	O
@@ -107037,7 +107037,7 @@ dra	O
 deg	O
 tilbake	O
 til	O
-platen	B-targ-Positive-0
+platen	B-targ-Positive-1
 etter	O
 at	O
 du	O
@@ -108464,9 +108464,9 @@ promille	O
 .	O
 
 #sent_id=102687-08-01
-Fiendene	B-targ-Positive-0
+Fiendene	B-targ-Positive-1
 i	O
-spillet	B-targ-Positive-0
+spillet	B-targ-Positive-1
 ser	O
 litt	O
 ut	O
@@ -108912,8 +108912,8 @@ riktig	O
 kjekk	O
 /	O
 ufyslig	O
-voksen	B-targ-Negative-0
-nabo	I-targ-Negative-0
+voksen	B-targ-Negative-1
+nabo	I-targ-Negative-1
 ...	O
 .	O
 
@@ -109205,11 +109205,11 @@ hensikter	O
 .	O
 
 #sent_id=109173-02-02
-«	B-targ-Negative-0
-Thanks	I-targ-Negative-0
-for	I-targ-Negative-0
-Sharing	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Thanks	I-targ-Negative-1
+for	I-targ-Negative-1
+Sharing	I-targ-Negative-1
+»	I-targ-Negative-1
 er	O
 en	O
 både	O
@@ -110260,15 +110260,15 @@ velsmakende	O
 selv	O
 om	O
 ferske	O
-kamskjell	B-targ-Negative-0
-med	I-targ-Negative-0
-rogn	I-targ-Negative-0
+kamskjell	B-targ-Negative-1
+med	I-targ-Negative-1
+rogn	I-targ-Negative-1
 hadde	O
 vært	O
 enda	O
 bedre	O
 enn	O
-frosne	B-targ-Negative-0
+frosne	B-targ-Negative-1
 .	O
 
 #sent_id=602087-23-02
@@ -110466,7 +110466,7 @@ menyen	O
 .	O
 
 #sent_id=602087-29-02
-Mangosuppe	B-targ-Negative-0
+Mangosuppe	B-targ-Negative-1
 hørtes	O
 mest	O
 spennende	O
@@ -114295,7 +114295,7 @@ fremmedgjort	O
 .	O
 
 #sent_id=602157-01-01
-Satyricon	B-targ-Positive-0
+Satyricon	B-targ-Positive-1
 ødela	O
 sørlandsidyllen	O
 
@@ -115643,10 +115643,10 @@ klein	O
 .	O
 
 #sent_id=600997-07-01
-Gabriel	B-targ-Positive-0
-Scotts	I-targ-Positive-0
+Gabriel	B-targ-Positive-1
+Scotts	I-targ-Positive-1
 vidunderlige	O
-Godnatt-salme	B-targ-Positive-0
+Godnatt-salme	B-targ-Positive-1
 er	O
 blitt	O
 forkortet	O
@@ -116425,7 +116425,7 @@ Det	O
 er	O
 en	O
 interessant	O
-dokumentar	B-targ-Negative-0
+dokumentar	B-targ-Negative-1
 ,	O
 men	O
 holder	O
@@ -124113,7 +124113,7 @@ kort	O
 .	O
 
 #sent_id=002008-06-02
-30-åringen	B-targ-Positive-0
+30-åringen	B-targ-Positive-1
 synger	O
 ofte	O
 surt	O
@@ -124192,7 +124192,7 @@ to	O
 minutter	O
 )	O
 er	O
-albumets	B-targ-Negative-0
+albumets	B-targ-Negative-1
 tveeggede	O
 sverd	O
 .	O
@@ -124247,10 +124247,10 @@ sett	O
 nokså	O
 uinteressante	O
 instrumentalen	O
-”	B-targ-Positive-0
-Wilson	I-targ-Positive-0
-Street	I-targ-Positive-0
-”	I-targ-Positive-0
+”	B-targ-Positive-1
+Wilson	I-targ-Positive-1
+Street	I-targ-Positive-1
+”	I-targ-Positive-1
 –	O
 i	O
 denne	O
@@ -124442,9 +124442,9 @@ skape	O
 noe	O
 trøkk	O
 foran	O
-Ørjan	B-targ-Positive-0
-Håskjold	I-targ-Positive-0
-Nyland	I-targ-Positive-0
+Ørjan	B-targ-Positive-1
+Håskjold	I-targ-Positive-1
+Nyland	I-targ-Positive-1
 .	O
 
 #sent_id=101115-05-01
@@ -126172,13 +126172,13 @@ anonym	O
 og	O
 innadvendt	O
 -	O
-et	B-targ-Negative-0
-par	I-targ-Negative-0
-av	I-targ-Negative-0
-de	I-targ-Negative-0
-mest	I-targ-Negative-0
-dronete	I-targ-Negative-0
-partiene	I-targ-Negative-0
+et	B-targ-Negative-1
+par	I-targ-Negative-1
+av	I-targ-Negative-1
+de	I-targ-Negative-1
+mest	I-targ-Negative-1
+dronete	I-targ-Negative-1
+partiene	I-targ-Negative-1
 er	O
 for	O
 all	O
@@ -127177,13 +127177,13 @@ hyggelige	O
 .	O
 
 #sent_id=103447-04-01
-Rollo	B-targ-Negative-0
-,	I-targ-Negative-0
-Maxi	I-targ-Negative-0
-Jazz	I-targ-Negative-0
-og	I-targ-Negative-0
-Sister	I-targ-Negative-0
-Bliss	I-targ-Negative-0
+Rollo	B-targ-Negative-1
+,	I-targ-Negative-1
+Maxi	I-targ-Negative-1
+Jazz	I-targ-Negative-1
+og	I-targ-Negative-1
+Sister	I-targ-Negative-1
+Bliss	I-targ-Negative-1
 har	O
 gode	O
 minner	O
@@ -127807,7 +127807,7 @@ Riktignok	O
 veksler	O
 hans	O
 nye	O
-album	B-targ-Negative-0
+album	B-targ-Negative-1
 mellom	O
 både	O
 festlig	O
@@ -129178,7 +129178,7 @@ fort	O
 glemt	O
 
 #sent_id=003939-19-01
-Contraband	B-targ-Positive-0
+Contraband	B-targ-Positive-1
 underholder	O
 nok	O
 til	O
@@ -130042,7 +130042,7 @@ gøyalt	O
 ,	O
 men	O
 forutsigbart	O
-eventyr	B-targ-Positive-0
+eventyr	B-targ-Positive-1
 .	O
 
 #sent_id=000076-03-01
@@ -130101,7 +130101,7 @@ koste	O
 meg	O
 med	O
 dette	O
-eventyret	B-targ-Negative-0
+eventyret	B-targ-Negative-1
 ,	O
 men	O
 det	O
@@ -130437,7 +130437,7 @@ slutten	B-targ-Positive-3
 Da	O
 blir	O
 dette	O
-eventyret	B-targ-Negative-0
+eventyret	B-targ-Negative-1
 så	O
 spennende	O
 som	O
@@ -133227,7 +133227,7 @@ oppmerksomheten	O
 .	O
 
 #sent_id=301240-08-02
-Filmen	B-targ-Negative-0
+Filmen	B-targ-Negative-1
 er	O
 bedre	O
 enn	O
@@ -133435,7 +133435,7 @@ troll	O
 .	O
 
 #sent_id=301240-11-04
-Shrek	B-targ-Positive-0
+Shrek	B-targ-Positive-1
 har	O
 rett	O
 når	O
@@ -134493,13 +134493,13 @@ da	O
 vi	O
 så	O
 en	O
-vifte	B-targ-Positive-0
-på	I-targ-Positive-0
-baksiden	I-targ-Positive-0
-av	I-targ-Positive-0
-Get	I-targ-Positive-0
-box	I-targ-Positive-0
-II	I-targ-Positive-0
+vifte	B-targ-Positive-1
+på	I-targ-Positive-1
+baksiden	I-targ-Positive-1
+av	I-targ-Positive-1
+Get	I-targ-Positive-1
+box	I-targ-Positive-1
+II	I-targ-Positive-1
 ,	O
 men	O
 etter	O
@@ -137172,7 +137172,7 @@ seg	O
 Gjentakelser	O
 
 #sent_id=202389-19-01
-Gudfaren-spillet	B-targ-Negative-0
+Gudfaren-spillet	B-targ-Negative-1
 har	O
 altså	O
 veldig	O
@@ -137328,7 +137328,7 @@ beskyttelsespenger	O
 .	O
 
 #sent_id=202389-20-03
-Mekanikken	B-targ-Negative-0
+Mekanikken	B-targ-Negative-1
 for	O
 å	O
 få	O
@@ -140151,8 +140151,8 @@ dagslys	O
 .	O
 
 #sent_id=102095-10-05
-Artistens	B-targ-Negative-0
-keitethet	I-targ-Negative-0
+Artistens	B-targ-Negative-1
+keitethet	I-targ-Negative-1
 er	O
 absolutt	O
 sjarmerende	O
@@ -142915,14 +142915,14 @@ til	O
 blitt	O
 et	O
 nytt	O
-Stones	B-targ-Negative-0
+Stones	B-targ-Negative-1
 eller	O
 for	O
 den	O
 saks	O
 skyld	O
-DumDum	B-targ-Negative-0
-Boys	I-targ-Negative-0
+DumDum	B-targ-Negative-1
+Boys	I-targ-Negative-1
 ;	O
 stilige	O
 band	O
@@ -143494,8 +143494,8 @@ så	O
 .	O
 
 #sent_id=004068-15-01
-Jack	B-targ-Positive-0
-Frost	I-targ-Positive-0
+Jack	B-targ-Positive-1
+Frost	I-targ-Positive-1
 er	O
 kanskje	O
 en	O
@@ -143532,7 +143532,7 @@ fellesskap	O
 .	O
 
 #sent_id=004068-16-01
-Busemannen	B-targ-Negative-0
+Busemannen	B-targ-Negative-1
 er	O
 ekkel	O
 nok	O
@@ -145345,8 +145345,8 @@ vs	O
 Rapace	O
 
 #sent_id=003889-19-01
-Daniel	B-targ-Negative-0
-Craig	I-targ-Negative-0
+Daniel	B-targ-Negative-1
+Craig	I-targ-Negative-1
 gjør	O
 en	O
 fin	O
@@ -146188,7 +146188,7 @@ person	O
 .	O
 
 #sent_id=109100-14-01
-Bakgrunnsmusikken	B-targ-Positive-0
+Bakgrunnsmusikken	B-targ-Positive-1
 er	O
 riktignok	O
 i	O
@@ -147157,7 +147157,7 @@ låter	O
 .	O
 
 #sent_id=305287-07-01
-Materialet	B-targ-Negative-0
+Materialet	B-targ-Negative-1
 er	O
 altså	O
 nytt	O
@@ -149186,7 +149186,7 @@ A3	O
 #sent_id=200662-02-01
 En	O
 smart	O
-dokkingstasjon	B-targ-Negative-0
+dokkingstasjon	B-targ-Negative-1
 fra	O
 Bang	O
 &	O
@@ -149984,7 +149984,7 @@ beste	O
 med	O
 
 #sent_id=200662-25-03
-A3	B-targ-Negative-0
+A3	B-targ-Negative-1
 er	O
 derfor	O
 at	O
@@ -150974,7 +150974,7 @@ PC	O
 .	O
 
 #sent_id=201174-11-02
-Programvaren	B-targ-Negative-0
+Programvaren	B-targ-Negative-1
 overfører	O
 og	O
 tilpasser	O
@@ -151566,7 +151566,7 @@ ellers	O
 kløktig	O
 helhetlig	O
 stykke	O
-film	B-targ-Positive-0
+film	B-targ-Positive-1
 .	O
 
 #sent_id=101381-11-01
@@ -153384,8 +153384,8 @@ den	O
 fantasifulle	O
 ,	O
 trassige	O
-eks-skuespiller	B-targ-Positive-0
-Fanda	I-targ-Positive-0
+eks-skuespiller	B-targ-Positive-1
+Fanda	I-targ-Positive-1
 .	O
 
 #sent_id=107375-05-03
@@ -156683,7 +156683,7 @@ denne	O
 klassen	O
 ,	O
 men	O
-bilen	B-targ-Negative-0
+bilen	B-targ-Negative-1
 kommer	O
 med	O
 god	O

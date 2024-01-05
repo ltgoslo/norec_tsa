@@ -557,9 +557,9 @@ blikk	O
 #sent_id=500236-07-04
 Det	O
 gjør	O
-«	B-targ-Negative-0
-Gullkysten	I-targ-Negative-0
-»	I-targ-Negative-0
+«	B-targ-Negative-1
+Gullkysten	I-targ-Negative-1
+»	I-targ-Negative-1
 til	O
 en	O
 film	O
@@ -2400,7 +2400,7 @@ Activity-filmene	O
 .	O
 
 #sent_id=004567-04-01
-Den	B-targ-Negative-0
+Den	B-targ-Negative-1
 følger	O
 sjangerens	O
 grunnleggende	O
@@ -2849,8 +2849,8 @@ skrekkfilm	O
 .	O
 
 #sent_id=004567-19-01
-Insidious	B-targ-Negative-0
-3	I-targ-Negative-0
+Insidious	B-targ-Negative-1
+3	I-targ-Negative-1
 har	O
 sine	O
 gode	O
@@ -6399,10 +6399,10 @@ distinkt	O
 
 #sent_id=301571-06-02
 Et	O
-reisebrev	B-targ-Positive-0
-fra	I-targ-Positive-0
-New	I-targ-Positive-0
-Zealand	I-targ-Positive-0
+reisebrev	B-targ-Positive-1
+fra	I-targ-Positive-1
+New	I-targ-Positive-1
+Zealand	I-targ-Positive-1
 ligger	O
 også	O
 litt	O
@@ -7102,7 +7102,7 @@ Karsten	O
 og	O
 Petra	O
 -	O
-filmen	B-targ-Negative-0
+filmen	B-targ-Negative-1
 er	O
 trolig	O
 nervepirrende	O
@@ -7614,7 +7614,7 @@ fattige	O
 #sent_id=400295-12-02
 Selv	O
 om	O
-filmen	B-targ-Positive-0
+filmen	B-targ-Positive-1
 er	O
 for	O
 tam	O
@@ -17860,10 +17860,10 @@ og	O
 satiregull	O
 ,	O
 er	O
-"	B-targ-Negative-0
-Zoolander	I-targ-Negative-0
-2	I-targ-Negative-0
-"	I-targ-Negative-0
+"	B-targ-Negative-1
+Zoolander	I-targ-Negative-1
+2	I-targ-Negative-1
+"	I-targ-Negative-1
 stort	O
 sett	O
 fylt	O
@@ -17939,9 +17939,9 @@ motebransjen	O
 .	O
 
 #sent_id=701679-03-03
-"	B-targ-Negative-0
-Zoolander	I-targ-Negative-0
-"	I-targ-Negative-0
+"	B-targ-Negative-1
+Zoolander	I-targ-Negative-1
+"	I-targ-Negative-1
 ble	O
 en	O
 besøksmessig	O
@@ -23763,7 +23763,7 @@ meningen	O
 :	O
 
 #sent_id=104987-08-03
-Smartingene	B-targ-Positive-0
+Smartingene	B-targ-Positive-1
 bak	O
 de	O
 stadig	O
@@ -23915,7 +23915,7 @@ Thaler	O
 .	O
 
 #sent_id=104987-12-01
-Filmen	B-targ-Negative-0
+Filmen	B-targ-Negative-1
 kunne	O
 lett	O
 ha	O
@@ -26327,7 +26327,7 @@ spillere	O
 
 #sent_id=704783-04-04
 Denne	O
-funksjonen	B-targ-Negative-0
+funksjonen	B-targ-Negative-1
 er	O
 langt	O
 fra	O
@@ -26464,7 +26464,7 @@ opp	O
 .	O
 
 #sent_id=704783-05-03
-Fiendene	B-targ-Positive-0
+Fiendene	B-targ-Positive-1
 framstår	O
 kanskje	O
 ikke	O
@@ -26772,7 +26772,7 @@ film	O
 .	O
 
 #sent_id=400109-05-02
-Sykdommer	B-targ-Negative-0
+Sykdommer	B-targ-Negative-1
 er	O
 nyttige	O
 fordi	O
@@ -26886,8 +26886,8 @@ moren	O
 .	O
 
 #sent_id=400109-07-05
-Sigourney	B-targ-Positive-0
-Weaver	I-targ-Positive-0
+Sigourney	B-targ-Positive-1
+Weaver	I-targ-Positive-1
 spiller	O
 bestemoren	O
 ,	O
@@ -27613,7 +27613,7 @@ bort	O
 Selv	O
 den	O
 bevegende	O
-avskjedsmonologen	B-targ-Negative-0
+avskjedsmonologen	B-targ-Negative-1
 ,	O
 da	O
 Jeppe	O
@@ -28880,14 +28880,14 @@ av	O
 den	O
 ellers	O
 velspillende	O
-kvartetten	B-targ-Positive-0
+kvartetten	B-targ-Positive-1
 .	O
 
 #sent_id=500718-10-04
 Især	O
-Thomas	B-targ-Positive-0
-Bipin	I-targ-Positive-0
-Olsen	I-targ-Positive-0
+Thomas	B-targ-Positive-1
+Bipin	I-targ-Positive-1
+Olsen	I-targ-Positive-1
 sliter	O
 til	O
 tider	O

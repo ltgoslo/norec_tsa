@@ -2174,8 +2174,8 @@ fortsatt	O
 til	O
 stede	O
 i	O
-sesong	B-targ-Positive-0
-to	I-targ-Positive-0
+sesong	B-targ-Positive-1
+to	I-targ-Positive-1
 .	O
 
 #sent_id=000298-21-02
@@ -9410,7 +9410,7 @@ til	O
 Nordnes	O
 
 #sent_id=501595-02-01
-Lokalet	B-targ-Positive-0
+Lokalet	B-targ-Positive-1
 er	O
 knøttlite	O
 ,	O
@@ -9742,8 +9742,8 @@ nasjonaldrikken	O
 til	O
 Peru	O
 ,	O
-pisco	B-targ-Negative-0
-sour	I-targ-Negative-0
+pisco	B-targ-Negative-1
+sour	I-targ-Negative-1
 ,	O
 har	O
 et	O
@@ -10007,7 +10007,7 @@ innsiden	O
 .	O
 
 #sent_id=501595-11-06
-Lammeskanken	B-targ-Negative-0
+Lammeskanken	B-targ-Negative-1
 er	O
 også	O
 saftig	O
@@ -10927,8 +10927,8 @@ Nintendo	B-targ-Negative-2
 klart	O
 å	O
 løfte	O
-Donkey	B-targ-Negative-0
-Kong	I-targ-Negative-0
+Donkey	B-targ-Negative-1
+Kong	I-targ-Negative-1
 –	O
 en	O
 av	O
@@ -13076,7 +13076,7 @@ face”-låtene	O
 .	O
 
 #sent_id=003121-05-02
-Den	B-targ-Negative-0
+Den	B-targ-Negative-1
 er	O
 ikke	O
 smertefull	O
@@ -13397,7 +13397,7 @@ laget	O
 Den	O
 kritikken	O
 skal	O
-Fitbit	B-targ-Negative-0
+Fitbit	B-targ-Negative-1
 ha	O
 tatt	O
 til	O
@@ -14336,8 +14336,8 @@ din	O
 
 #sent_id=200006-35-01
 Den	O
-vibrerende	B-targ-Negative-0
-vekkingen	I-targ-Negative-0
+vibrerende	B-targ-Negative-1
+vekkingen	I-targ-Negative-1
 er	O
 veldig	O
 kjekk	O
@@ -17639,8 +17639,8 @@ måtene	O
 
 #sent_id=302108-11-01
 Inntil	O
-DJ	B-targ-Negative-0
-Koze	I-targ-Negative-0
+DJ	B-targ-Negative-1
+Koze	I-targ-Negative-1
 blåser	O
 litt	O
 etterlengtet	O
@@ -17703,7 +17703,7 @@ på	O
 :	O
 
 #sent_id=302108-12-03
-Den	B-targ-Negative-0
+Den	B-targ-Negative-1
 vekker	O
 de	O
 fysiske	O
@@ -17914,7 +17914,7 @@ velproduserte	O
 ,	O
 men	O
 vindskeive	O
-papparocken	B-targ-Positive-0
+papparocken	B-targ-Positive-1
 som	O
 var	O
 deres	O
@@ -18145,9 +18145,9 @@ sistnevnte	O
 
 #sent_id=303721-12-01
 Særlig	O
-albumets	B-targ-Negative-0
+albumets	B-targ-Negative-1
 bugnende	O
-midtstykke	B-targ-Negative-0
+midtstykke	B-targ-Negative-1
 byr	O
 på	O
 få	O
@@ -21857,10 +21857,10 @@ garantere	O
 (	O
 181	O
 )	O
-Anne	B-targ-Negative-0
-Cathrine	I-targ-Negative-0
-Wollebæks	I-targ-Negative-0
-oversettelse	I-targ-Negative-0
+Anne	B-targ-Negative-1
+Cathrine	I-targ-Negative-1
+Wollebæks	I-targ-Negative-1
+oversettelse	I-targ-Negative-1
 fungerer	O
 bra	O
 ,	O
